@@ -11,7 +11,7 @@ metadata:
     io.kompose.service: events-api
   name: events-api
 spec:
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       io.kompose.service: events-api
