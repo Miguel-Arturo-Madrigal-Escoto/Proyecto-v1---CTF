@@ -1,10 +1,26 @@
-<h1>PROYECTO</h1>
-<h6>Oswaldo Gael Cervantes Castoño</h6>
-<h6>Kevin Arturo Fernández Román</h6>
-<h6>Aide Sarahí Flores Ontiveros</h6>
-<h6>Miguel Arturo Madrigal Escoto</h6>
-<h6>José Ulises Vallejo Sierra</h6>
-
+<font color="#afe1af"><h1>PROYECTO FINAL <strong>Calendar App</strong></h1></font>
+<h2><font color="#b2d4db"><b>Asignatura: </b>Computación tolerante a fallas</font></h2>
+<h2><font color="#b2d4db"><b>Profesor: </b>Michel Emanuel Lopez Franco</font></h2>
+<h2><font color="#b2d4db"><b>Sección: </b>D06</font></h2>
+<h2><font color="#b2d4db"><b>Clave: </b>I7036</font></h2>
+<h3><font color="#afe1af">Integrantes</font></h3>
+<ul>
+  <li>Oswaldo Gael Cervantes Castoño <font color="#eba2ae"><b>219747468</b></font></li>
+  <li>Kevin Arturo Fernández Román <font color="#eba2ae"><b>216457949</b></font></li>
+  <li>Aide Sarahí Flores Ontiveros <font color="#eba2ae"><b>216587419</b></font></li>
+  <li>Miguel Arturo Madrigal Escoto <font color="#eba2ae"><b>219747905</b></font></li>
+  <li>José Ulises Vallejo Sierra <font color="#eba2ae"><b>215767693</b></font></li>
+</ul>
+<hr/ >
+<h3><font color="#afe1af">Tecnologias utilizadas: Stack MERN</font></h3>
+<ul>
+  <li><font color="#589636">MongoDB Atlas</font></li>
+  <li><font color="#fefefe">Express</font></li>
+  <li><font color="#00d8ff">React.js</font></li>
+  <li><font color="#44883e">Node.js</font></li>
+</ul>
+<hr/ >
+<h3><font color="#afe1af">Introducciones</font></h3>
 <h4>GitHub</h4>	
 <ol>
   <li><strong>Clonar</strong> el repositorio</li>
